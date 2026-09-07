@@ -1,0 +1,501 @@
+timestamp,customer_id,tenure,monthly_charges,total_charges,num_services,support_calls,contract_type,payment_method,internet_service,churn_probability,predicted_churn
+2026-09-07 15:50:16,11255,52,73.36,3456.94,3,7,Month-to-month,Bank transfer,No,0.7763,1
+2026-09-07 15:50:18,11256,9,44.12,362.4,1,0,Month-to-month,Bank transfer,Fiber optic,0.829,1
+2026-09-07 15:50:21,11257,51,50.37,2387.02,2,9,Month-to-month,Mailed check,Fiber optic,0.7412,1
+2026-09-07 15:50:23,11258,34,63.45,2057.84,7,10,Two year,Credit card,DSL,0.4041,0
+2026-09-07 15:50:25,11259,16,27.86,430.47,3,2,Two year,Electronic check,DSL,0.3257,0
+2026-09-07 15:50:27,11260,22,20.65,407.36,4,2,One year,Electronic check,DSL,0.2347,0
+2026-09-07 15:50:29,11261,6,31.9,198.8,6,10,Month-to-month,Electronic check,No,0.8036,1
+2026-09-07 15:50:31,11262,31,80.28,2296.33,6,9,Month-to-month,Electronic check,DSL,0.7223,1
+2026-09-07 15:50:34,11263,42,114.81,4817.98,2,6,Month-to-month,Bank transfer,Fiber optic,0.6575,1
+2026-09-07 15:50:36,11264,55,37.2,1805.7,5,1,Month-to-month,Bank transfer,Fiber optic,0.5661,1
+2026-09-07 15:50:38,11265,40,95.43,3614.03,1,10,Month-to-month,Mailed check,DSL,0.7537,1
+2026-09-07 15:50:40,11266,58,89.62,4609.83,5,10,One year,Mailed check,No,0.3119,0
+2026-09-07 15:50:42,11267,15,96.09,1468.89,6,5,Month-to-month,Bank transfer,DSL,0.6702,1
+2026-09-07 15:50:44,11268,3,110.54,302.17,6,2,Month-to-month,Mailed check,DSL,0.7682,1
+2026-09-07 15:50:46,11269,53,21.94,1154.0,7,7,Month-to-month,Electronic check,DSL,0.5182,1
+2026-09-07 15:50:48,11270,12,70.78,726.67,5,1,Two year,Electronic check,Fiber optic,0.3934,0
+2026-09-07 15:50:51,11271,45,76.85,3482.3,2,1,One year,Electronic check,Fiber optic,0.4263,0
+2026-09-07 15:50:53,11272,8,114.85,881.99,5,1,One year,Credit card,No,0.4528,0
+2026-09-07 15:50:55,11273,71,41.82,2565.47,1,6,Month-to-month,Credit card,Fiber optic,0.7112,1
+2026-09-07 15:50:57,11274,11,82.75,935.18,6,5,Month-to-month,Mailed check,DSL,0.7737,1
+2026-09-07 15:50:59,11275,50,59.94,3098.16,1,10,One year,Bank transfer,Fiber optic,0.3144,0
+2026-09-07 15:51:01,11276,37,21.67,815.34,2,7,Two year,Bank transfer,Fiber optic,0.385,0
+2026-09-07 15:51:04,11277,34,82.58,2644.9,6,9,Month-to-month,Mailed check,DSL,0.7464,1
+2026-09-07 15:51:06,11278,66,110.54,6800.39,6,6,Month-to-month,Electronic check,DSL,0.7978,1
+2026-09-07 15:51:08,11279,60,119.57,6609.83,2,2,Month-to-month,Electronic check,Fiber optic,0.7233,1
+2026-09-07 15:51:10,11280,70,90.54,6268.09,1,10,Month-to-month,Mailed check,DSL,0.676,1
+2026-09-07 15:51:12,11281,38,39.64,1544.01,7,0,Two year,Bank transfer,No,0.2163,0
+2026-09-07 15:51:14,11282,12,102.93,1249.06,1,4,Month-to-month,Credit card,DSL,0.7095,1
+2026-09-07 15:51:16,11283,8,60.23,500.44,1,7,Month-to-month,Mailed check,DSL,0.8313,1
+2026-09-07 15:51:18,11284,37,108.33,4101.49,5,7,Month-to-month,Credit card,No,0.7798,1
+2026-09-07 15:51:20,11285,33,75.03,2308.25,3,3,Month-to-month,Bank transfer,Fiber optic,0.7008,1
+2026-09-07 15:51:22,11286,40,98.64,3808.35,1,1,Month-to-month,Bank transfer,DSL,0.6054,1
+2026-09-07 15:51:25,11287,53,76.09,4213.07,1,7,Month-to-month,Bank transfer,DSL,0.7919,1
+2026-09-07 15:51:27,11288,56,71.45,4048.45,4,0,Month-to-month,Credit card,DSL,0.6949,1
+2026-09-07 15:51:29,11289,32,82.39,2318.59,1,2,Two year,Bank transfer,DSL,0.3519,0
+2026-09-07 15:51:31,11290,40,101.32,3765.47,2,2,Month-to-month,Electronic check,No,0.7846,1
+2026-09-07 15:51:33,11291,19,31.75,563.98,4,4,Month-to-month,Bank transfer,No,0.822,1
+2026-09-07 15:51:35,11292,52,115.53,6221.15,3,7,Month-to-month,Bank transfer,Fiber optic,0.7282,1
+2026-09-07 15:51:38,11293,63,51.9,2850.02,3,5,Month-to-month,Electronic check,Fiber optic,0.6014,1
+2026-09-07 15:51:40,11294,38,115.34,4181.58,3,7,Month-to-month,Credit card,No,0.7634,1
+2026-09-07 15:51:42,11295,34,66.08,2122.19,2,7,One year,Credit card,No,0.3839,0
+2026-09-07 15:51:44,11296,27,42.24,1083.71,4,2,Month-to-month,Credit card,Fiber optic,0.5257,1
+2026-09-07 15:51:46,11297,71,75.85,4820.18,2,7,Two year,Bank transfer,No,0.2527,0
+2026-09-07 15:51:49,11298,4,70.2,284.31,7,6,Month-to-month,Bank transfer,DSL,0.7642,1
+2026-09-07 15:51:51,11299,41,71.25,2944.45,2,5,Month-to-month,Bank transfer,Fiber optic,0.6943,1
+2026-09-07 15:51:53,11300,49,47.68,2389.78,5,7,Month-to-month,Mailed check,DSL,0.6167,1
+2026-09-07 15:51:55,11301,8,101.82,797.78,7,6,Month-to-month,Bank transfer,Fiber optic,0.7875,1
+2026-09-07 15:51:57,11302,19,80.44,1414.34,6,2,One year,Credit card,Fiber optic,0.2755,0
+2026-09-07 15:51:59,11303,70,76.07,5189.12,1,3,Month-to-month,Electronic check,Fiber optic,0.577,1
+2026-09-07 15:52:01,11304,14,85.09,1023.46,2,5,One year,Electronic check,Fiber optic,0.3119,0
+2026-09-07 15:52:03,11305,13,33.72,454.99,4,3,Month-to-month,Credit card,DSL,0.7868,1
+2026-09-07 15:52:06,11306,25,105.13,2556.92,1,2,One year,Electronic check,Fiber optic,0.499,0
+2026-09-07 15:52:08,11307,4,101.96,351.35,6,4,One year,Electronic check,DSL,0.4199,0
+2026-09-07 15:52:10,11308,37,68.17,2531.6,4,3,Two year,Bank transfer,DSL,0.3086,0
+2026-09-07 15:52:12,11309,51,73.94,3749.56,6,8,Month-to-month,Mailed check,Fiber optic,0.6127,1
+2026-09-07 15:52:14,11310,61,83.86,4404.42,1,2,One year,Bank transfer,DSL,0.2839,0
+2026-09-07 15:52:16,11311,72,96.39,6043.83,2,10,Month-to-month,Credit card,No,0.6989,1
+2026-09-07 15:52:18,11312,28,103.3,2774.16,4,3,Month-to-month,Bank transfer,Fiber optic,0.8144,1
+2026-09-07 15:52:20,11313,35,31.64,988.6,6,4,One year,Electronic check,No,0.258,0
+2026-09-07 15:52:22,11314,20,93.2,1587.82,7,0,Month-to-month,Credit card,DSL,0.6555,1
+2026-09-07 15:52:25,11315,29,84.43,2241.87,7,3,Month-to-month,Bank transfer,Fiber optic,0.7525,1
+2026-09-07 15:52:27,11316,61,93.7,5670.87,3,4,Month-to-month,Credit card,DSL,0.5921,1
+2026-09-07 15:52:29,11317,44,75.71,2885.12,2,8,Two year,Credit card,Fiber optic,0.4599,0
+2026-09-07 15:52:31,11318,12,89.59,1046.78,6,5,Month-to-month,Mailed check,DSL,0.7895,1
+2026-09-07 15:52:33,11319,32,77.26,2135.29,6,5,One year,Credit card,DSL,0.4283,0
+2026-09-07 15:52:36,11320,58,76.71,3850.36,6,2,One year,Mailed check,Fiber optic,0.3766,0
+2026-09-07 15:52:38,11321,67,30.4,1924.43,2,5,One year,Credit card,Fiber optic,0.1996,0
+2026-09-07 15:52:40,11322,15,92.8,1361.79,2,1,Month-to-month,Bank transfer,No,0.8449,1
+2026-09-07 15:52:42,11323,51,79.51,3807.4,3,9,Month-to-month,Bank transfer,DSL,0.6894,1
+2026-09-07 15:52:44,11324,27,44.89,1049.16,6,10,Month-to-month,Credit card,No,0.7193,1
+2026-09-07 15:52:46,11325,5,97.26,435.74,5,7,One year,Mailed check,Fiber optic,0.4253,0
+2026-09-07 15:52:48,11326,36,83.58,2833.75,4,5,Month-to-month,Mailed check,DSL,0.8591,1
+2026-09-07 15:52:51,11327,2,104.02,215.65,2,0,Month-to-month,Mailed check,DSL,0.8298,1
+2026-09-07 15:52:53,11328,35,92.1,2914.08,4,6,Two year,Bank transfer,Fiber optic,0.3823,0
+2026-09-07 15:52:55,11329,69,68.18,4363.23,2,7,One year,Credit card,Fiber optic,0.2453,0
+2026-09-07 15:52:57,11330,46,61.0,2632.07,4,7,Month-to-month,Electronic check,DSL,0.7364,1
+2026-09-07 15:52:59,11331,44,38.06,1694.9,3,2,Month-to-month,Electronic check,Fiber optic,0.6316,1
+2026-09-07 15:53:01,11332,42,74.33,2874.05,7,4,Month-to-month,Credit card,No,0.6472,1
+2026-09-07 15:53:03,11333,35,87.11,2934.19,6,6,One year,Credit card,DSL,0.3648,0
+2026-09-07 15:53:05,11334,44,48.43,2139.83,3,0,Month-to-month,Electronic check,Fiber optic,0.684,1
+2026-09-07 15:53:08,11335,57,111.68,5956.05,4,1,Month-to-month,Bank transfer,Fiber optic,0.6214,1
+2026-09-07 15:53:10,11336,2,58.37,108.96,6,4,One year,Bank transfer,Fiber optic,0.5483,1
+2026-09-07 15:53:12,11337,6,64.53,349.78,2,3,One year,Mailed check,DSL,0.4296,0
+2026-09-07 15:53:14,11338,52,30.06,1526.25,1,10,Month-to-month,Electronic check,Fiber optic,0.6819,1
+2026-09-07 15:53:16,11339,20,117.36,2206.76,3,9,Month-to-month,Credit card,No,0.8581,1
+2026-09-07 15:53:18,11340,40,51.96,1811.5,6,2,Two year,Electronic check,Fiber optic,0.2958,0
+2026-09-07 15:53:20,11341,7,32.7,217.07,7,10,Month-to-month,Electronic check,Fiber optic,0.8312,1
+2026-09-07 15:53:23,11342,69,114.66,7373.11,3,8,Month-to-month,Mailed check,Fiber optic,0.7736,1
+2026-09-07 15:53:25,11343,46,63.07,2652.28,6,2,One year,Bank transfer,Fiber optic,0.2561,0
+2026-09-07 15:53:27,11344,22,109.99,2389.53,4,3,Two year,Mailed check,DSL,0.4414,0
+2026-09-07 15:53:29,11345,13,63.56,859.12,2,5,Month-to-month,Electronic check,Fiber optic,0.8787,1
+2026-09-07 15:53:31,11346,27,80.25,1848.22,7,5,Month-to-month,Mailed check,No,0.7239,1
+2026-09-07 15:53:33,11347,33,106.91,3235.37,7,5,One year,Electronic check,Fiber optic,0.3521,0
+2026-09-07 15:53:35,11348,40,82.15,3276.4,1,2,Month-to-month,Mailed check,Fiber optic,0.7039,1
+2026-09-07 15:53:37,11349,66,68.51,3992.09,2,2,One year,Bank transfer,Fiber optic,0.2524,0
+2026-09-07 15:53:40,11350,27,101.35,2586.78,3,6,One year,Credit card,Fiber optic,0.3433,0
+2026-09-07 15:53:42,11351,44,25.7,964.7,7,2,Month-to-month,Mailed check,Fiber optic,0.5485,1
+2026-09-07 15:53:44,11352,19,92.52,1605.36,2,6,One year,Credit card,Fiber optic,0.3078,0
+2026-09-07 15:53:46,11353,35,40.49,1411.41,3,8,One year,Mailed check,No,0.3899,0
+2026-09-07 15:53:48,11354,28,25.91,748.32,1,7,Two year,Credit card,DSL,0.336,0
+2026-09-07 15:53:50,11355,34,45.14,1345.21,7,4,Month-to-month,Electronic check,DSL,0.5827,1
+2026-09-07 15:53:52,11356,54,47.01,2266.63,1,8,One year,Bank transfer,Fiber optic,0.2641,0
+2026-09-07 15:53:54,11357,29,57.24,1736.61,3,4,Month-to-month,Credit card,Fiber optic,0.7064,1
+2026-09-07 15:53:57,11358,29,63.31,1727.39,5,9,Month-to-month,Mailed check,DSL,0.7763,1
+2026-09-07 15:53:59,11359,17,62.65,968.33,1,10,One year,Bank transfer,Fiber optic,0.4121,0
+2026-09-07 15:54:01,11360,55,62.06,3090.23,3,4,Month-to-month,Bank transfer,DSL,0.7001,1
+2026-09-07 15:54:03,11361,17,108.49,1858.07,5,6,Month-to-month,Mailed check,Fiber optic,0.8782,1
+2026-09-07 15:54:05,11362,33,89.33,2513.85,4,5,Month-to-month,Bank transfer,Fiber optic,0.8366,1
+2026-09-07 15:54:07,11363,26,84.05,2116.74,7,7,One year,Bank transfer,Fiber optic,0.4384,0
+2026-09-07 15:54:09,11364,38,112.01,3647.5,7,6,Month-to-month,Credit card,Fiber optic,0.7042,1
+2026-09-07 15:54:11,11365,7,115.52,801.74,2,1,Month-to-month,Electronic check,DSL,0.7382,1
+2026-09-07 15:54:14,11366,5,26.53,131.75,5,8,Month-to-month,Mailed check,No,0.846,1
+2026-09-07 15:54:16,11367,37,103.97,3600.35,4,9,Two year,Credit card,Fiber optic,0.5457,1
+2026-09-07 15:54:18,11368,67,30.87,2067.7,7,4,One year,Electronic check,No,0.2633,0
+2026-09-07 15:54:20,11369,65,100.39,6144.16,5,5,Month-to-month,Electronic check,Fiber optic,0.7099,1
+2026-09-07 15:54:22,11370,10,41.72,360.45,5,6,Month-to-month,Credit card,DSL,0.8082,1
+2026-09-07 15:54:24,11371,71,31.34,1941.08,5,8,One year,Electronic check,No,0.2734,0
+2026-09-07 15:54:26,11372,34,38.58,1342.61,3,4,Month-to-month,Electronic check,DSL,0.7114,1
+2026-09-07 15:54:29,11373,68,51.01,3094.69,5,6,Two year,Mailed check,Fiber optic,0.2444,0
+2026-09-07 15:54:31,11374,62,104.41,6176.59,2,9,Month-to-month,Credit card,Fiber optic,0.7624,1
+2026-09-07 15:54:33,11375,23,77.44,1775.04,4,10,Month-to-month,Mailed check,DSL,0.8009,1
+2026-09-07 15:54:35,11376,43,42.31,1685.08,2,1,Month-to-month,Electronic check,Fiber optic,0.7094,1
+2026-09-07 15:54:37,11377,30,60.29,1681.34,5,6,Month-to-month,Credit card,Fiber optic,0.7076,1
+2026-09-07 15:54:39,11378,66,40.65,2386.65,3,1,Month-to-month,Mailed check,Fiber optic,0.5067,1
+2026-09-07 15:54:41,11379,5,68.84,347.26,4,5,Two year,Bank transfer,No,0.5589,1
+2026-09-07 15:54:43,11380,15,65.77,894.79,1,4,Month-to-month,Mailed check,Fiber optic,0.887,1
+2026-09-07 15:54:46,11381,8,116.89,858.26,2,9,Two year,Electronic check,DSL,0.4912,0
+2026-09-07 15:54:48,11382,47,32.13,1360.63,1,10,Month-to-month,Mailed check,DSL,0.7525,1
+2026-09-07 15:54:50,11383,47,91.37,4489.13,6,7,Month-to-month,Mailed check,Fiber optic,0.7321,1
+2026-09-07 15:54:52,11384,26,102.44,2620.65,1,7,Month-to-month,Credit card,No,0.8267,1
+2026-09-07 15:54:54,11385,45,47.71,2030.06,3,8,Month-to-month,Mailed check,Fiber optic,0.6989,1
+2026-09-07 15:54:56,11386,54,69.45,3844.26,2,1,Two year,Mailed check,Fiber optic,0.2876,0
+2026-09-07 15:54:58,11387,53,97.65,4936.71,4,4,Month-to-month,Credit card,DSL,0.7096,1
+2026-09-07 15:55:00,11388,2,50.14,99.74,7,7,Month-to-month,Bank transfer,No,0.7962,1
+2026-09-07 15:55:03,11389,2,99.6,175.68,6,0,Month-to-month,Credit card,Fiber optic,0.8136,1
+2026-09-07 15:55:05,11390,21,83.2,1491.12,5,4,Month-to-month,Credit card,DSL,0.776,1
+2026-09-07 15:55:07,11391,8,115.93,788.55,6,6,Two year,Credit card,Fiber optic,0.4749,0
+2026-09-07 15:55:09,11392,43,39.65,1546.21,4,8,Month-to-month,Credit card,DSL,0.7902,1
+2026-09-07 15:55:11,11393,13,54.52,689.23,5,9,Month-to-month,Mailed check,DSL,0.8564,1
+2026-09-07 15:55:13,11394,9,32.44,272.64,7,9,Month-to-month,Bank transfer,Fiber optic,0.8121,1
+2026-09-07 15:55:15,11395,27,75.74,1930.26,6,9,Month-to-month,Electronic check,No,0.7864,1
+2026-09-07 15:55:17,11396,29,115.19,3321.74,4,1,One year,Bank transfer,DSL,0.3705,0
+2026-09-07 15:55:20,11397,70,25.05,1566.71,3,1,Month-to-month,Electronic check,Fiber optic,0.378,0
+2026-09-07 15:55:22,11398,47,79.75,3555.78,3,5,One year,Electronic check,No,0.3363,0
+2026-09-07 15:55:24,11399,25,40.8,890.03,2,7,One year,Mailed check,Fiber optic,0.4597,0
+2026-09-07 15:55:26,11400,29,29.17,832.4,3,2,One year,Electronic check,DSL,0.2089,0
+2026-09-07 15:55:28,11401,23,68.8,1641.11,1,8,Month-to-month,Electronic check,Fiber optic,0.8091,1
+2026-09-07 15:55:30,11402,39,25.11,1002.05,1,5,Two year,Credit card,Fiber optic,0.2967,0
+2026-09-07 15:55:32,11403,72,89.42,5772.18,3,2,One year,Mailed check,Fiber optic,0.2658,0
+2026-09-07 15:55:34,11404,35,104.46,3489.19,6,3,Month-to-month,Electronic check,DSL,0.7597,1
+2026-09-07 15:55:37,11405,17,80.26,1361.92,3,2,Month-to-month,Mailed check,No,0.8347,1
+2026-09-07 15:55:39,11406,17,21.34,376.17,6,2,One year,Credit card,Fiber optic,0.3737,0
+2026-09-07 15:55:41,11407,40,119.73,4112.43,4,8,Month-to-month,Electronic check,Fiber optic,0.758,1
+2026-09-07 15:55:43,11408,36,105.6,3393.04,6,2,One year,Bank transfer,No,0.3962,0
+2026-09-07 15:55:45,11409,44,42.26,1927.47,5,1,Two year,Electronic check,DSL,0.2881,0
+2026-09-07 15:55:47,11410,17,81.98,1382.04,7,9,Month-to-month,Credit card,DSL,0.8232,1
+2026-09-07 15:55:49,11411,22,107.76,2220.59,6,5,Month-to-month,Electronic check,Fiber optic,0.73,1
+2026-09-07 15:55:51,11412,43,70.83,2869.3,7,1,Month-to-month,Credit card,Fiber optic,0.5582,1
+2026-09-07 15:55:53,11413,30,30.18,850.06,7,7,Month-to-month,Bank transfer,Fiber optic,0.6529,1
+2026-09-07 15:55:56,11414,54,37.75,1846.43,3,6,Month-to-month,Electronic check,Fiber optic,0.5871,1
+2026-09-07 15:55:58,11415,54,78.03,3806.04,4,10,Month-to-month,Credit card,DSL,0.7411,1
+2026-09-07 15:56:00,11416,21,54.41,1057.23,3,3,Month-to-month,Electronic check,Fiber optic,0.7109,1
+2026-09-07 15:56:02,11417,71,98.61,6700.98,5,7,One year,Electronic check,DSL,0.3072,0
+2026-09-07 15:56:04,11418,65,58.24,3893.61,6,4,One year,Credit card,Fiber optic,0.2899,0
+2026-09-07 15:56:06,11419,56,96.05,5469.65,2,5,Month-to-month,Bank transfer,DSL,0.7447,1
+2026-09-07 15:56:09,11420,6,54.25,327.64,7,5,Month-to-month,Bank transfer,DSL,0.7147,1
+2026-09-07 15:56:11,11421,66,42.96,2616.63,3,6,Two year,Bank transfer,Fiber optic,0.3185,0
+2026-09-07 15:56:13,11422,50,20.58,911.9,3,4,One year,Bank transfer,Fiber optic,0.2838,0
+2026-09-07 15:56:15,11423,29,23.47,654.28,4,2,One year,Mailed check,No,0.3136,0
+2026-09-07 15:56:17,11424,16,43.13,607.46,3,10,Two year,Bank transfer,DSL,0.5523,1
+2026-09-07 15:56:19,11425,9,111.21,1024.19,7,7,One year,Bank transfer,No,0.5441,1
+2026-09-07 15:56:21,11426,38,109.53,3854.99,1,2,Month-to-month,Electronic check,No,0.7278,1
+2026-09-07 15:56:23,11427,4,74.91,288.11,6,9,Month-to-month,Electronic check,No,0.841,1
+2026-09-07 15:56:26,11428,27,42.12,977.88,6,9,Two year,Credit card,Fiber optic,0.2579,0
+2026-09-07 15:56:28,11429,51,102.45,5256.12,6,2,Two year,Mailed check,No,0.2684,0
+2026-09-07 15:56:30,11430,55,111.95,6260.66,2,3,One year,Mailed check,DSL,0.322,0
+2026-09-07 15:56:32,11431,72,98.9,6372.23,2,6,One year,Credit card,Fiber optic,0.1487,0
+2026-09-07 15:56:34,11432,11,85.63,945.01,6,8,Month-to-month,Credit card,Fiber optic,0.8245,1
+2026-09-07 15:56:36,11433,18,62.4,1141.46,5,0,Two year,Bank transfer,No,0.301,0
+2026-09-07 15:56:38,11434,17,96.24,1469.13,2,7,Month-to-month,Bank transfer,Fiber optic,0.8999,1
+2026-09-07 15:56:41,11435,47,71.22,3036.82,2,2,Month-to-month,Credit card,Fiber optic,0.6401,1
+2026-09-07 15:56:43,11436,5,51.69,220.85,7,6,Two year,Credit card,Fiber optic,0.4828,0
+2026-09-07 15:56:45,11437,42,40.25,1510.96,2,7,Month-to-month,Mailed check,DSL,0.7531,1
+2026-09-07 15:56:47,11438,43,27.2,1015.48,6,4,Month-to-month,Bank transfer,Fiber optic,0.4925,0
+2026-09-07 15:56:49,11439,33,22.29,767.35,6,1,One year,Bank transfer,Fiber optic,0.2562,0
+2026-09-07 15:56:51,11440,70,76.31,5426.64,4,7,Month-to-month,Credit card,Fiber optic,0.7505,1
+2026-09-07 15:56:54,11441,7,37.05,244.24,4,1,Two year,Mailed check,Fiber optic,0.5153,1
+2026-09-07 15:56:56,11442,58,28.7,1724.84,5,4,One year,Bank transfer,DSL,0.2085,0
+2026-09-07 15:56:58,11443,44,62.61,2816.32,3,3,Two year,Bank transfer,DSL,0.2958,0
+2026-09-07 15:57:00,11444,56,45.01,2478.04,6,4,Month-to-month,Credit card,No,0.6395,1
+2026-09-07 15:57:02,11445,66,83.69,4722.9,1,0,Month-to-month,Electronic check,Fiber optic,0.6746,1
+2026-09-07 15:57:04,11446,15,41.98,643.48,6,10,Month-to-month,Mailed check,Fiber optic,0.8648,1
+2026-09-07 15:57:06,11447,62,51.45,2791.82,2,2,Month-to-month,Bank transfer,DSL,0.642,1
+2026-09-07 15:57:09,11448,7,44.24,314.55,4,2,Month-to-month,Mailed check,Fiber optic,0.8422,1
+2026-09-07 15:57:11,11449,65,85.51,5668.95,4,4,Month-to-month,Bank transfer,DSL,0.6859,1
+2026-09-07 15:57:13,11450,34,42.67,1390.66,1,0,Month-to-month,Mailed check,DSL,0.6712,1
+2026-09-07 15:57:15,11451,22,72.67,1569.67,3,5,One year,Bank transfer,DSL,0.3355,0
+2026-09-07 15:57:17,11452,44,90.36,4026.75,2,9,Month-to-month,Credit card,DSL,0.7636,1
+2026-09-07 15:57:19,11453,3,59.45,175.07,7,1,One year,Credit card,Fiber optic,0.3531,0
+2026-09-07 15:57:21,11454,8,31.4,262.65,3,1,Month-to-month,Credit card,Fiber optic,0.6962,1
+2026-09-07 15:57:23,11455,7,118.29,718.5,4,1,Month-to-month,Bank transfer,No,0.7872,1
+2026-09-07 15:57:26,11456,12,79.9,888.47,3,1,Month-to-month,Electronic check,Fiber optic,0.8449,1
+2026-09-07 15:57:28,11457,15,42.71,598.99,2,5,One year,Mailed check,Fiber optic,0.3683,0
+2026-09-07 15:57:30,11458,45,60.11,2682.24,4,5,Month-to-month,Bank transfer,DSL,0.6587,1
+2026-09-07 15:57:32,11459,4,90.18,326.3,7,1,One year,Credit card,Fiber optic,0.3887,0
+2026-09-07 15:57:34,11460,50,88.63,4317.04,6,3,Month-to-month,Electronic check,No,0.7641,1
+2026-09-07 15:57:36,11461,4,100.01,389.39,3,8,One year,Credit card,DSL,0.4905,0
+2026-09-07 15:57:38,11462,42,87.5,3410.07,2,0,Month-to-month,Bank transfer,DSL,0.674,1
+2026-09-07 15:57:40,11463,4,69.89,275.28,5,8,Month-to-month,Bank transfer,DSL,0.8353,1
+2026-09-07 15:57:42,11464,2,101.29,209.44,3,9,Two year,Credit card,DSL,0.6385,1
+2026-09-07 15:57:45,11465,15,95.82,1316.93,7,1,Month-to-month,Bank transfer,No,0.7022,1
+2026-09-07 15:57:47,11466,16,86.24,1201.58,6,4,Month-to-month,Mailed check,DSL,0.7461,1
+2026-09-07 15:57:49,11467,10,112.7,1087.34,7,10,Month-to-month,Mailed check,Fiber optic,0.7892,1
+2026-09-07 15:57:51,11468,51,81.06,4293.15,5,6,Month-to-month,Mailed check,Fiber optic,0.6922,1
+2026-09-07 15:57:53,11469,26,66.62,1719.12,2,6,Month-to-month,Mailed check,DSL,0.8402,1
+2026-09-07 15:57:55,11470,2,91.44,184.64,2,2,Month-to-month,Electronic check,Fiber optic,0.8633,1
+2026-09-07 15:57:57,11471,29,23.45,612.36,7,1,One year,Mailed check,No,0.336,0
+2026-09-07 15:57:59,11472,59,98.33,5032.9,7,0,Two year,Bank transfer,Fiber optic,0.2506,0
+2026-09-07 15:58:02,11473,68,67.41,4363.09,1,10,One year,Bank transfer,DSL,0.3012,0
+2026-09-07 15:58:04,11474,31,33.68,920.08,2,1,Month-to-month,Electronic check,Fiber optic,0.812,1
+2026-09-07 15:58:06,11475,38,73.83,2934.89,1,2,Month-to-month,Credit card,Fiber optic,0.6499,1
+2026-09-07 15:58:08,11476,43,119.04,4699.57,3,6,Month-to-month,Electronic check,No,0.7017,1
+2026-09-07 15:58:10,11477,46,40.74,1901.65,1,9,One year,Bank transfer,Fiber optic,0.2343,0
+2026-09-07 15:58:12,11478,22,56.3,1217.8,3,4,One year,Mailed check,DSL,0.3478,0
+2026-09-07 15:58:14,11479,7,77.17,474.88,6,4,One year,Electronic check,DSL,0.4144,0
+2026-09-07 15:58:16,11480,37,73.56,2740.75,3,1,Two year,Bank transfer,Fiber optic,0.3583,0
+2026-09-07 15:58:19,11481,53,30.88,1659.93,6,1,Two year,Credit card,DSL,0.1837,0
+2026-09-07 15:58:21,11482,60,70.12,3958.97,6,9,Month-to-month,Electronic check,Fiber optic,0.6973,1
+2026-09-07 15:58:23,11483,68,54.12,3837.73,2,8,Month-to-month,Electronic check,Fiber optic,0.6311,1
+2026-09-07 15:58:25,11484,20,24.68,512.96,6,9,Month-to-month,Mailed check,No,0.8076,1
+2026-09-07 15:58:27,11485,54,58.57,2843.86,1,9,Month-to-month,Bank transfer,DSL,0.7066,1
+2026-09-07 15:58:29,11486,67,21.1,1376.25,3,8,Month-to-month,Mailed check,Fiber optic,0.6353,1
+2026-09-07 15:58:31,11487,35,94.45,3343.62,5,2,Month-to-month,Electronic check,Fiber optic,0.7586,1
+2026-09-07 15:58:33,11488,6,73.31,376.65,3,3,One year,Mailed check,Fiber optic,0.44,0
+2026-09-07 15:58:36,11489,45,64.3,2915.64,5,4,One year,Credit card,Fiber optic,0.3206,0
+2026-09-07 15:58:38,11490,32,90.06,2927.63,3,8,Two year,Electronic check,Fiber optic,0.3669,0
+2026-09-07 15:58:40,11491,44,31.9,1360.35,4,1,Month-to-month,Electronic check,No,0.663,1
+2026-09-07 15:58:42,11492,41,76.7,3204.73,3,10,Month-to-month,Electronic check,DSL,0.725,1
+2026-09-07 15:58:44,11493,2,40.48,72.29,7,3,Month-to-month,Bank transfer,No,0.7396,1
+2026-09-07 15:58:46,11494,59,79.3,4759.07,6,8,Month-to-month,Bank transfer,Fiber optic,0.7819,1
+2026-09-07 15:58:48,11495,31,58.13,1725.48,4,2,One year,Mailed check,DSL,0.302,0
+2026-09-07 15:58:50,11496,72,119.2,8253.47,6,9,Two year,Electronic check,DSL,0.3327,0
+2026-09-07 15:58:52,11497,57,73.48,4279.15,1,10,Month-to-month,Electronic check,No,0.6546,1
+2026-09-07 15:58:55,11498,40,112.83,4414.58,2,9,Month-to-month,Mailed check,DSL,0.7777,1
+2026-09-07 15:58:57,11499,70,61.93,4132.16,5,5,Month-to-month,Mailed check,No,0.5805,1
+2026-09-07 15:58:59,11500,23,73.83,1713.53,7,10,Month-to-month,Mailed check,No,0.8091,1
+2026-09-07 15:59:01,11501,53,115.03,5423.31,2,7,Month-to-month,Electronic check,Fiber optic,0.8054,1
+2026-09-07 15:59:03,11502,54,31.07,1579.31,1,10,One year,Credit card,Fiber optic,0.2882,0
+2026-09-07 15:59:05,11503,40,41.35,1677.42,3,9,Two year,Electronic check,Fiber optic,0.3294,0
+2026-09-07 15:59:07,11504,70,33.46,2163.17,4,4,One year,Electronic check,No,0.2409,0
+2026-09-07 15:59:09,11505,39,55.34,2155.36,2,2,One year,Mailed check,No,0.3172,0
+2026-09-07 15:59:11,11506,36,59.54,2130.32,5,10,One year,Mailed check,Fiber optic,0.3938,0
+2026-09-07 15:59:13,11507,23,84.84,1671.16,4,5,Two year,Credit card,Fiber optic,0.606,1
+2026-09-07 15:59:16,11508,20,34.59,725.03,1,2,Month-to-month,Credit card,No,0.7405,1
+2026-09-07 15:59:18,11509,13,89.95,1023.39,5,0,One year,Bank transfer,Fiber optic,0.4186,0
+2026-09-07 15:59:20,11510,1,69.07,63.5,1,5,Two year,Mailed check,Fiber optic,0.6389,1
+2026-09-07 15:59:22,11511,36,91.66,3389.08,5,5,Month-to-month,Mailed check,No,0.7563,1
+2026-09-07 15:59:24,11512,52,68.53,3573.94,1,4,One year,Bank transfer,Fiber optic,0.2894,0
+2026-09-07 15:59:26,11513,65,86.82,5344.29,6,8,One year,Bank transfer,Fiber optic,0.3562,0
+2026-09-07 15:59:28,11514,69,98.45,6098.41,1,0,Two year,Bank transfer,DSL,0.2637,0
+2026-09-07 15:59:30,11515,20,38.53,757.83,6,0,Month-to-month,Bank transfer,DSL,0.5723,1
+2026-09-07 15:59:32,11516,59,80.32,4837.2,6,4,One year,Bank transfer,Fiber optic,0.2346,0
+2026-09-07 15:59:35,11517,32,90.09,2814.74,4,2,Month-to-month,Bank transfer,DSL,0.7551,1
+2026-09-07 15:59:37,11518,28,86.92,2379.54,2,6,Month-to-month,Electronic check,Fiber optic,0.8203,1
+2026-09-07 15:59:39,11519,20,75.65,1462.65,1,1,One year,Credit card,DSL,0.3165,0
+2026-09-07 15:59:41,11520,18,75.76,1407.17,4,9,One year,Credit card,DSL,0.4224,0
+2026-09-07 15:59:43,11521,33,54.28,1786.82,3,8,Month-to-month,Electronic check,DSL,0.7164,1
+2026-09-07 15:59:45,11522,12,20.28,223.08,5,3,One year,Mailed check,Fiber optic,0.39,0
+2026-09-07 15:59:48,11523,26,105.97,2875.33,3,0,Two year,Mailed check,DSL,0.3567,0
+2026-09-07 15:59:50,11524,65,22.68,1346.94,5,8,Month-to-month,Electronic check,No,0.502,1
+2026-09-07 15:59:52,11525,2,93.73,186.91,2,9,Month-to-month,Mailed check,No,0.8693,1
+2026-09-07 15:59:54,11526,45,59.45,2276.19,1,7,Month-to-month,Electronic check,DSL,0.7408,1
+2026-09-07 15:59:56,11527,32,62.2,1755.93,5,5,One year,Bank transfer,No,0.3775,0
+2026-09-07 15:59:58,11528,2,89.75,185.4,2,5,Month-to-month,Mailed check,Fiber optic,0.9009,1
+2026-09-07 16:00:00,11529,53,57.47,2964.08,6,7,Month-to-month,Credit card,Fiber optic,0.7333,1
+2026-09-07 16:00:02,11530,2,33.82,58.76,7,6,Month-to-month,Electronic check,DSL,0.7441,1
+2026-09-07 16:00:04,11531,16,82.23,1139.92,7,1,Month-to-month,Mailed check,No,0.819,1
+2026-09-07 16:00:07,11532,59,108.77,6547.4,3,2,Month-to-month,Electronic check,No,0.7557,1
+2026-09-07 16:00:09,11533,47,88.6,3895.1,6,8,Month-to-month,Mailed check,DSL,0.666,1
+2026-09-07 16:00:11,11534,71,45.12,3230.93,6,4,Two year,Bank transfer,Fiber optic,0.2498,0
+2026-09-07 16:00:13,11535,63,64.18,3642.48,2,5,Month-to-month,Bank transfer,DSL,0.6596,1
+2026-09-07 16:00:15,11536,35,119.18,3716.64,2,7,One year,Credit card,No,0.5229,1
+2026-09-07 16:00:17,11537,48,108.09,4837.54,7,8,Month-to-month,Credit card,Fiber optic,0.6699,1
+2026-09-07 16:00:19,11538,72,72.3,4675.78,1,1,One year,Bank transfer,No,0.2914,0
+2026-09-07 16:00:21,11539,42,105.68,4134.94,4,6,Two year,Credit card,DSL,0.4325,0
+2026-09-07 16:00:23,11540,16,88.7,1425.25,4,9,Month-to-month,Mailed check,No,0.9201,1
+2026-09-07 16:00:26,11541,58,40.89,2123.05,2,5,Month-to-month,Credit card,DSL,0.7694,1
+2026-09-07 16:00:28,11542,53,86.91,4631.08,2,0,Month-to-month,Credit card,No,0.7269,1
+2026-09-07 16:00:30,11543,31,100.36,2911.41,1,2,Month-to-month,Electronic check,Fiber optic,0.7864,1
+2026-09-07 16:00:32,11544,9,73.88,677.71,4,10,Two year,Bank transfer,No,0.5681,1
+2026-09-07 16:00:34,11545,51,85.39,3847.28,7,10,One year,Electronic check,No,0.3074,0
+2026-09-07 16:00:36,11546,26,68.59,1865.44,6,3,One year,Mailed check,DSL,0.3471,0
+2026-09-07 16:00:38,11547,63,23.7,1392.61,7,5,Month-to-month,Credit card,Fiber optic,0.5992,1
+2026-09-07 16:00:40,11548,54,25.93,1261.95,5,2,Month-to-month,Electronic check,Fiber optic,0.3773,0
+2026-09-07 16:00:43,11549,23,22.9,476.75,7,7,One year,Credit card,Fiber optic,0.2813,0
+2026-09-07 16:00:45,11550,54,106.41,5936.59,3,6,One year,Bank transfer,No,0.3076,0
+2026-09-07 16:00:47,11551,30,80.29,2414.4,1,9,Month-to-month,Credit card,No,0.8652,1
+2026-09-07 16:00:49,11552,49,114.21,4955.86,7,6,Month-to-month,Credit card,DSL,0.5954,1
+2026-09-07 16:00:51,11553,48,103.59,4789.66,3,2,Month-to-month,Mailed check,DSL,0.6656,1
+2026-09-07 16:00:53,11554,3,34.43,105.79,3,4,Two year,Mailed check,No,0.5343,1
+2026-09-07 16:00:55,11555,13,96.76,1249.87,5,10,One year,Mailed check,Fiber optic,0.4429,0
+2026-09-07 16:00:57,11556,40,91.5,3616.77,1,10,One year,Electronic check,Fiber optic,0.4637,0
+2026-09-07 16:00:59,11557,18,32.3,561.83,2,10,One year,Bank transfer,No,0.4633,0
+2026-09-07 16:01:01,11558,65,108.83,6384.27,2,10,Month-to-month,Bank transfer,DSL,0.7355,1
+2026-09-07 16:01:04,11559,16,78.27,1081.59,2,4,Month-to-month,Electronic check,DSL,0.7795,1
+2026-09-07 16:01:06,11560,24,82.82,1840.05,4,6,Month-to-month,Mailed check,DSL,0.8161,1
+2026-09-07 16:01:08,11561,12,67.33,763.02,5,1,One year,Credit card,DSL,0.3731,0
+2026-09-07 16:01:10,11562,64,39.28,2207.54,4,2,Two year,Credit card,DSL,0.2775,0
+2026-09-07 16:01:12,11563,35,30.33,1039.94,7,7,Two year,Credit card,No,0.2277,0
+2026-09-07 16:01:15,11564,3,114.0,297.28,4,1,One year,Mailed check,DSL,0.4964,0
+2026-09-07 16:01:17,11565,36,59.91,2071.01,2,0,Two year,Electronic check,No,0.3331,0
+2026-09-07 16:01:19,11566,23,96.01,1976.87,6,6,Two year,Bank transfer,DSL,0.384,0
+2026-09-07 16:01:21,11567,37,109.92,3534.8,6,6,Month-to-month,Electronic check,DSL,0.7775,1
+2026-09-07 16:01:23,11568,41,46.8,1931.54,6,1,Month-to-month,Bank transfer,No,0.5541,1
+2026-09-07 16:01:25,11569,44,45.22,1751.39,3,0,One year,Electronic check,No,0.3154,0
+2026-09-07 16:01:27,11570,7,26.78,195.09,5,1,Two year,Mailed check,Fiber optic,0.4747,0
+2026-09-07 16:01:29,11571,53,50.01,2442.44,2,1,One year,Mailed check,DSL,0.2585,0
+2026-09-07 16:01:32,11572,11,53.41,561.08,1,8,One year,Electronic check,No,0.4599,0
+2026-09-07 16:01:34,11573,26,58.47,1588.53,5,4,Month-to-month,Credit card,No,0.6716,1
+2026-09-07 16:01:36,11574,10,32.29,322.02,1,9,Month-to-month,Bank transfer,Fiber optic,0.8457,1
+2026-09-07 16:01:38,11575,25,99.38,2460.11,2,6,One year,Credit card,DSL,0.4449,0
+2026-09-07 16:01:40,11576,34,92.94,2979.0,4,3,Month-to-month,Credit card,No,0.7232,1
+2026-09-07 16:01:42,11577,49,97.18,4414.06,4,7,One year,Bank transfer,Fiber optic,0.3659,0
+2026-09-07 16:01:44,11578,27,33.08,769.85,3,0,Month-to-month,Bank transfer,Fiber optic,0.6944,1
+2026-09-07 16:01:46,11579,67,83.79,5020.45,3,8,Month-to-month,Mailed check,DSL,0.7169,1
+2026-09-07 16:01:48,11580,45,48.84,2098.9,2,3,Month-to-month,Mailed check,DSL,0.6969,1
+2026-09-07 16:01:50,11581,68,81.35,5353.42,6,3,One year,Mailed check,No,0.3522,0
+2026-09-07 16:01:53,11582,2,77.66,161.38,7,5,Month-to-month,Credit card,No,0.835,1
+2026-09-07 16:01:55,11583,60,80.27,4188.23,1,4,Month-to-month,Bank transfer,DSL,0.7436,1
+2026-09-07 16:01:57,11584,7,93.05,677.92,5,10,One year,Electronic check,No,0.4864,0
+2026-09-07 16:01:59,11585,43,113.54,4424.37,1,3,Month-to-month,Credit card,DSL,0.5265,1
+2026-09-07 16:02:01,11586,53,44.78,2291.2,3,10,Two year,Electronic check,DSL,0.3718,0
+2026-09-07 16:02:04,11587,2,81.07,164.68,1,8,Two year,Electronic check,Fiber optic,0.5547,1
+2026-09-07 16:02:06,11588,2,29.65,59.69,7,2,One year,Credit card,Fiber optic,0.2477,0
+2026-09-07 16:02:08,11589,35,40.0,1390.1,1,1,Month-to-month,Mailed check,Fiber optic,0.7716,1
+2026-09-07 16:02:10,11590,12,116.14,1209.55,5,0,Two year,Electronic check,Fiber optic,0.4227,0
+2026-09-07 16:02:12,11591,31,82.16,2569.76,1,8,Month-to-month,Bank transfer,No,0.8186,1
+2026-09-07 16:02:14,11592,26,36.34,974.18,2,3,Two year,Bank transfer,Fiber optic,0.2424,0
+2026-09-07 16:02:16,11593,5,70.95,327.86,5,7,Month-to-month,Electronic check,No,0.8203,1
+2026-09-07 16:02:18,11594,65,109.77,7326.69,7,8,One year,Electronic check,DSL,0.3141,0
+2026-09-07 16:02:21,11595,9,44.78,399.07,2,1,Month-to-month,Bank transfer,Fiber optic,0.8622,1
+2026-09-07 16:02:23,11596,40,64.67,2298.71,1,9,One year,Bank transfer,DSL,0.2711,0
+2026-09-07 16:02:25,11597,24,32.31,723.67,6,5,Month-to-month,Bank transfer,Fiber optic,0.667,1
+2026-09-07 16:02:27,11598,8,111.19,872.82,1,9,Month-to-month,Electronic check,Fiber optic,0.8152,1
+2026-09-07 16:02:29,11599,28,29.27,831.2,1,5,One year,Electronic check,Fiber optic,0.3107,0
+2026-09-07 16:02:31,11600,13,34.14,420.77,7,5,Two year,Credit card,Fiber optic,0.3874,0
+2026-09-07 16:02:33,11601,70,90.18,6402.31,1,8,Month-to-month,Credit card,Fiber optic,0.8064,1
+2026-09-07 16:02:36,11602,33,27.7,801.88,7,8,Two year,Bank transfer,DSL,0.2302,0
+2026-09-07 16:02:38,11603,26,46.74,1155.85,1,3,Month-to-month,Mailed check,DSL,0.6885,1
+2026-09-07 16:02:40,11604,3,106.56,301.63,3,9,Month-to-month,Credit card,Fiber optic,0.9317,1
+2026-09-07 16:02:42,11605,37,51.85,1765.31,4,9,Month-to-month,Bank transfer,DSL,0.7733,1
+2026-09-07 16:02:44,11606,12,36.89,407.72,1,3,Month-to-month,Credit card,Fiber optic,0.798,1
+2026-09-07 16:02:46,11607,48,94.97,4230.1,5,8,Month-to-month,Credit card,Fiber optic,0.7289,1
+2026-09-07 16:02:48,11608,7,88.34,585.12,5,5,One year,Electronic check,Fiber optic,0.3352,0
+2026-09-07 16:02:51,11609,25,113.55,2484.17,3,5,One year,Bank transfer,DSL,0.434,0
+2026-09-07 16:02:53,11610,51,59.2,2937.11,7,6,Month-to-month,Mailed check,Fiber optic,0.5653,1
+2026-09-07 16:02:55,11611,63,99.0,6523.83,4,8,Two year,Electronic check,DSL,0.3949,0
+2026-09-07 16:02:57,11612,33,79.61,2281.79,5,9,Month-to-month,Electronic check,Fiber optic,0.7787,1
+2026-09-07 16:02:59,11613,27,93.32,2180.14,2,2,Month-to-month,Bank transfer,Fiber optic,0.8268,1
+2026-09-07 16:03:01,11614,70,80.63,5205.11,6,2,Month-to-month,Bank transfer,Fiber optic,0.5714,1
+2026-09-07 16:03:04,11615,25,56.69,1293.82,5,5,Month-to-month,Bank transfer,Fiber optic,0.6782,1
+2026-09-07 16:03:06,11616,3,102.39,287.2,5,6,One year,Electronic check,No,0.5112,1
+2026-09-07 16:03:08,11617,66,94.61,6032.42,7,9,Month-to-month,Electronic check,DSL,0.6939,1
+2026-09-07 16:03:10,11618,50,36.02,1832.21,7,4,Two year,Credit card,No,0.2764,0
+2026-09-07 16:03:12,11619,69,34.81,2097.85,7,9,One year,Electronic check,DSL,0.2431,0
+2026-09-07 16:03:15,11620,60,57.35,3259.34,2,3,One year,Electronic check,DSL,0.2751,0
+2026-09-07 16:03:17,11621,10,57.23,562.55,6,8,Month-to-month,Bank transfer,Fiber optic,0.837,1
+2026-09-07 16:03:19,11622,7,51.36,306.9,6,4,Month-to-month,Electronic check,DSL,0.7463,1
+2026-09-07 16:03:21,11623,25,106.17,2660.76,1,1,Two year,Bank transfer,Fiber optic,0.4428,0
+2026-09-07 16:03:24,11624,49,80.27,3937.75,6,3,Month-to-month,Electronic check,Fiber optic,0.6611,1
+2026-09-07 16:03:26,11625,52,33.88,1627.47,3,1,One year,Credit card,DSL,0.2038,0
+2026-09-07 16:03:28,11626,51,31.82,1608.37,1,0,Month-to-month,Mailed check,No,0.5148,1
+2026-09-07 16:03:30,11627,61,43.29,2649.44,1,1,Month-to-month,Mailed check,No,0.426,0
+2026-09-07 16:03:32,11628,12,106.52,1195.97,3,5,One year,Bank transfer,DSL,0.4493,0
+2026-09-07 16:03:35,11629,8,34.47,247.84,3,1,Month-to-month,Credit card,Fiber optic,0.6871,1
+2026-09-07 16:03:37,11630,33,78.79,2647.37,7,7,Month-to-month,Mailed check,Fiber optic,0.7068,1
+2026-09-07 16:03:39,11631,26,115.24,3085.31,4,0,One year,Bank transfer,No,0.4031,0
+2026-09-07 16:03:41,11632,8,63.96,452.39,3,2,Month-to-month,Credit card,No,0.8558,1
+2026-09-07 16:03:43,11633,24,39.21,864.87,2,10,One year,Electronic check,Fiber optic,0.4055,0
+2026-09-07 16:03:46,11634,21,109.33,2146.12,6,8,Two year,Electronic check,Fiber optic,0.4621,0
+2026-09-07 16:03:48,11635,67,72.51,4815.4,5,5,Month-to-month,Mailed check,DSL,0.6668,1
+2026-09-07 16:03:50,11636,39,48.42,1853.57,7,8,Month-to-month,Credit card,No,0.6636,1
+2026-09-07 16:03:52,11637,8,69.65,484.15,7,1,One year,Mailed check,Fiber optic,0.3186,0
+2026-09-07 16:03:55,11638,56,96.51,5124.67,4,6,Two year,Mailed check,Fiber optic,0.3338,0
+2026-09-07 16:03:57,11639,49,115.65,5143.47,4,9,Two year,Credit card,Fiber optic,0.4955,0
+2026-09-07 16:03:59,11640,14,34.08,409.53,1,6,Two year,Bank transfer,Fiber optic,0.3356,0
+2026-09-07 16:04:01,11641,43,112.53,5038.15,4,9,Month-to-month,Bank transfer,Fiber optic,0.6956,1
+2026-09-07 16:04:03,11642,38,76.59,2538.76,7,5,Month-to-month,Electronic check,No,0.6738,1
+2026-09-07 16:04:05,11643,54,59.94,2894.21,2,5,Month-to-month,Mailed check,Fiber optic,0.6777,1
+2026-09-07 16:04:08,11644,61,119.3,6628.92,2,3,One year,Mailed check,DSL,0.3325,0
+2026-09-07 16:04:10,11645,21,52.21,987.36,7,3,Month-to-month,Credit card,Fiber optic,0.5207,1
+2026-09-07 16:04:12,11646,64,81.78,5188.18,6,1,Month-to-month,Electronic check,Fiber optic,0.7021,1
+2026-09-07 16:04:14,11647,1,108.13,113.42,5,3,Month-to-month,Bank transfer,DSL,0.8744,1
+2026-09-07 16:04:16,11648,31,81.37,2297.82,3,7,One year,Credit card,Fiber optic,0.2874,0
+2026-09-07 16:04:19,11649,3,39.64,103.84,1,10,Two year,Mailed check,Fiber optic,0.5177,1
+2026-09-07 16:04:21,11650,62,53.88,3036.87,5,7,One year,Credit card,DSL,0.2847,0
+2026-09-07 16:04:23,11651,55,87.69,4469.33,1,2,Month-to-month,Bank transfer,DSL,0.6362,1
+2026-09-07 16:04:25,11652,60,43.96,2638.6,7,4,One year,Electronic check,Fiber optic,0.2835,0
+2026-09-07 16:04:27,11653,64,84.31,4901.73,4,1,One year,Electronic check,Fiber optic,0.336,0
+2026-09-07 16:04:30,11654,22,71.63,1616.9,3,9,Two year,Electronic check,DSL,0.5708,1
+2026-09-07 16:04:32,11655,30,118.24,3252.85,6,0,One year,Credit card,DSL,0.4001,0
+2026-09-07 16:04:34,11656,35,101.65,3359.16,2,3,Month-to-month,Bank transfer,Fiber optic,0.8105,1
+2026-09-07 16:04:36,11657,47,53.33,2191.01,6,5,Two year,Bank transfer,Fiber optic,0.3078,0
+2026-09-07 16:04:39,11658,48,33.06,1632.66,3,2,Month-to-month,Electronic check,Fiber optic,0.5774,1
+2026-09-07 16:04:41,11659,45,115.48,5109.39,6,0,Two year,Mailed check,DSL,0.2368,0
+2026-09-07 16:04:43,11660,19,20.48,331.7,1,9,One year,Credit card,DSL,0.4129,0
+2026-09-07 16:04:45,11661,60,118.82,6470.55,5,3,Month-to-month,Electronic check,DSL,0.6591,1
+2026-09-07 16:04:47,11662,52,98.07,4943.54,4,1,Two year,Credit card,Fiber optic,0.3206,0
+2026-09-07 16:04:49,11663,62,86.26,5298.62,7,1,One year,Credit card,No,0.2812,0
+2026-09-07 16:04:51,11664,70,40.46,2840.5,7,10,Two year,Bank transfer,DSL,0.345,0
+2026-09-07 16:04:54,11665,28,72.14,1874.65,5,2,One year,Credit card,No,0.3581,0
+2026-09-07 16:04:56,11666,39,51.53,1725.01,5,9,One year,Mailed check,Fiber optic,0.3336,0
+2026-09-07 16:04:58,11667,62,25.08,1527.54,3,5,Month-to-month,Mailed check,DSL,0.7112,1
+2026-09-07 16:05:00,11668,27,50.32,1191.12,7,5,Month-to-month,Electronic check,DSL,0.5569,1
+2026-09-07 16:05:02,11669,66,39.31,2628.32,4,9,Month-to-month,Bank transfer,No,0.6379,1
+2026-09-07 16:05:05,11670,23,84.64,1723.71,7,5,One year,Bank transfer,DSL,0.3758,0
+2026-09-07 16:05:07,11671,33,75.28,2309.22,4,10,Month-to-month,Credit card,Fiber optic,0.7908,1
+2026-09-07 16:05:09,11672,72,25.27,1850.54,6,5,Month-to-month,Mailed check,No,0.482,0
+2026-09-07 16:05:11,11673,49,58.85,2868.69,1,1,One year,Electronic check,DSL,0.4043,0
+2026-09-07 16:05:13,11674,48,33.94,1568.73,4,9,One year,Mailed check,Fiber optic,0.2057,0
+2026-09-07 16:05:16,11675,37,36.73,1223.79,7,10,Two year,Credit card,DSL,0.3153,0
+2026-09-07 16:05:18,11676,16,102.98,1602.74,6,4,Month-to-month,Credit card,DSL,0.6188,1
+2026-09-07 16:05:20,11677,24,88.91,1835.82,6,2,Month-to-month,Credit card,Fiber optic,0.7155,1
+2026-09-07 16:05:22,11678,40,50.01,1802.32,5,5,One year,Electronic check,No,0.2925,0
+2026-09-07 16:05:24,11679,28,58.78,1579.23,2,4,Month-to-month,Electronic check,Fiber optic,0.7743,1
+2026-09-07 16:05:27,11680,4,24.77,98.28,2,2,Two year,Credit card,No,0.4252,0
+2026-09-07 16:05:29,11681,23,94.76,2182.25,5,6,Two year,Mailed check,Fiber optic,0.5124,1
+2026-09-07 16:05:31,11682,53,95.72,4839.11,2,8,Month-to-month,Bank transfer,Fiber optic,0.7489,1
+2026-09-07 16:05:33,11683,1,113.88,112.76,6,5,Month-to-month,Mailed check,Fiber optic,0.8694,1
+2026-09-07 16:05:35,11684,39,50.89,2057.65,1,7,Month-to-month,Bank transfer,DSL,0.7079,1
+2026-09-07 16:05:38,11685,59,62.68,3177.53,1,7,Month-to-month,Bank transfer,Fiber optic,0.7118,1
+2026-09-07 16:05:40,11686,10,30.7,263.05,1,8,Month-to-month,Bank transfer,Fiber optic,0.835,1
+2026-09-07 16:05:42,11687,2,104.27,215.28,1,2,Month-to-month,Bank transfer,Fiber optic,0.8857,1
+2026-09-07 16:05:44,11688,26,49.28,1144.88,1,5,Month-to-month,Credit card,DSL,0.7483,1
+2026-09-07 16:05:46,11689,17,24.04,361.74,7,2,One year,Credit card,Fiber optic,0.3211,0
+2026-09-07 16:05:49,11690,62,101.92,6628.97,3,0,Month-to-month,Mailed check,DSL,0.6237,1
+2026-09-07 16:05:51,11691,57,50.83,2904.62,2,5,Month-to-month,Credit card,Fiber optic,0.8189,1
+2026-09-07 16:05:53,11692,55,21.6,1096.01,1,6,One year,Bank transfer,Fiber optic,0.2376,0
+2026-09-07 16:05:55,11693,67,98.97,5911.26,4,0,One year,Credit card,DSL,0.1604,0
+2026-09-07 16:05:57,11694,58,53.82,3025.94,5,3,Month-to-month,Mailed check,Fiber optic,0.4623,0
+2026-09-07 16:06:00,11695,61,117.65,6408.37,7,2,Month-to-month,Mailed check,DSL,0.5278,1
+2026-09-07 16:06:02,11696,1,34.96,32.58,4,7,Two year,Electronic check,DSL,0.3512,0
+2026-09-07 16:06:04,11697,34,104.38,3073.98,2,2,Month-to-month,Mailed check,DSL,0.7686,1
+2026-09-07 16:06:06,11698,28,106.1,3089.94,4,5,Month-to-month,Bank transfer,Fiber optic,0.8204,1
+2026-09-07 16:06:08,11699,52,20.79,971.75,1,8,Month-to-month,Electronic check,Fiber optic,0.6109,1
+2026-09-07 16:06:11,11700,70,90.45,6105.99,6,5,Two year,Bank transfer,DSL,0.2908,0
+2026-09-07 16:06:13,11701,8,69.92,567.21,4,1,Month-to-month,Bank transfer,No,0.866,1
+2026-09-07 16:06:15,11702,53,51.92,2499.51,7,5,One year,Electronic check,DSL,0.2187,0
+2026-09-07 16:06:17,11703,10,35.83,315.52,4,2,Month-to-month,Mailed check,DSL,0.7981,1
+2026-09-07 16:06:20,11704,54,76.8,3803.39,6,10,Month-to-month,Electronic check,DSL,0.6554,1
+2026-09-07 16:06:22,11705,9,119.88,980.94,6,6,One year,Electronic check,DSL,0.4547,0
+2026-09-07 16:06:24,11706,15,20.4,278.06,7,7,Month-to-month,Mailed check,No,0.7661,1
+2026-09-07 16:06:26,11707,47,34.65,1643.79,1,8,One year,Bank transfer,DSL,0.2063,0
+2026-09-07 16:06:28,11708,23,21.19,505.35,6,2,Month-to-month,Electronic check,DSL,0.4997,0
+2026-09-07 16:06:30,11709,42,45.07,1631.72,4,1,Month-to-month,Mailed check,Fiber optic,0.6362,1
+2026-09-07 16:06:33,11710,49,117.55,5960.08,4,5,Month-to-month,Electronic check,Fiber optic,0.7839,1
+2026-09-07 16:06:35,11711,35,20.95,693.39,1,3,One year,Electronic check,Fiber optic,0.2837,0
+2026-09-07 16:06:37,11712,68,44.56,2690.45,3,9,Month-to-month,Mailed check,DSL,0.6165,1
+2026-09-07 16:06:39,11713,56,28.92,1522.7,4,3,One year,Bank transfer,Fiber optic,0.1787,0
+2026-09-07 16:06:41,11714,47,47.84,2146.15,3,8,Month-to-month,Electronic check,DSL,0.718,1
+2026-09-07 16:06:44,11715,20,22.24,442.37,4,4,One year,Credit card,No,0.2908,0
+2026-09-07 16:06:46,11716,13,91.48,1217.14,4,9,One year,Electronic check,Fiber optic,0.4274,0
+2026-09-07 16:06:48,11717,50,112.99,4959.29,4,7,One year,Electronic check,Fiber optic,0.4143,0
+2026-09-07 16:06:50,11718,62,98.71,6251.03,7,6,Month-to-month,Mailed check,Fiber optic,0.6341,1
+2026-09-07 16:06:53,11719,44,111.74,4579.71,3,0,Two year,Mailed check,Fiber optic,0.3213,0
+2026-09-07 16:06:55,11720,49,61.68,2681.48,6,10,Month-to-month,Bank transfer,DSL,0.6328,1
+2026-09-07 16:06:57,11721,46,54.0,2494.72,7,6,Month-to-month,Mailed check,DSL,0.5318,1
+2026-09-07 16:06:59,11722,32,88.07,2708.44,6,5,Month-to-month,Bank transfer,Fiber optic,0.86,1
+2026-09-07 16:07:01,11723,63,52.6,3030.83,2,4,One year,Credit card,DSL,0.2642,0
+2026-09-07 16:07:04,11724,68,114.51,7911.78,2,7,Two year,Bank transfer,Fiber optic,0.283,0
+2026-09-07 16:07:06,11725,66,108.07,6955.45,6,4,Month-to-month,Bank transfer,No,0.696,1
+2026-09-07 16:07:08,11726,35,85.21,2627.46,1,7,One year,Credit card,DSL,0.3871,0
+2026-09-07 16:07:10,11727,33,118.04,3994.67,6,5,Month-to-month,Electronic check,Fiber optic,0.7953,1
+2026-09-07 16:07:12,11728,34,43.64,1397.39,1,7,Month-to-month,Electronic check,DSL,0.7189,1
+2026-09-07 16:07:15,11729,35,57.27,1850.61,4,6,Month-to-month,Credit card,Fiber optic,0.744,1
+2026-09-07 16:07:17,11730,21,106.99,2015.31,1,5,Month-to-month,Bank transfer,DSL,0.6462,1
+2026-09-07 16:07:19,11731,45,41.42,1615.68,4,5,Month-to-month,Credit card,DSL,0.7695,1
+2026-09-07 16:07:21,11732,5,27.17,135.28,3,3,Month-to-month,Bank transfer,Fiber optic,0.8157,1
+2026-09-07 16:07:23,11733,14,35.91,493.11,2,0,Two year,Mailed check,No,0.3518,0
+2026-09-07 16:07:26,11734,64,71.38,3964.27,2,2,Month-to-month,Credit card,Fiber optic,0.6727,1
+2026-09-07 16:07:28,11735,46,100.59,4739.63,5,3,Month-to-month,Mailed check,Fiber optic,0.7068,1
+2026-09-07 16:07:30,11736,27,108.68,2761.12,4,9,Month-to-month,Bank transfer,DSL,0.7617,1
+2026-09-07 16:07:32,11737,29,53.39,1610.98,5,8,Month-to-month,Electronic check,Fiber optic,0.7205,1
+2026-09-07 16:07:34,11738,38,82.12,3095.16,5,7,One year,Electronic check,DSL,0.4387,0
+2026-09-07 16:07:36,11739,18,21.76,381.82,5,4,Month-to-month,Mailed check,Fiber optic,0.7962,1
+2026-09-07 16:07:39,11740,18,96.26,1771.92,3,2,One year,Electronic check,DSL,0.3963,0
+2026-09-07 16:07:41,11741,65,94.35,6381.34,2,5,Month-to-month,Electronic check,No,0.7241,1
+2026-09-07 16:07:43,11742,64,34.6,2196.97,7,8,Month-to-month,Electronic check,DSL,0.5756,1
+2026-09-07 16:07:45,11743,57,35.6,1758.11,1,8,One year,Bank transfer,No,0.2309,0
+2026-09-07 16:07:48,11744,11,93.95,1042.84,4,6,Month-to-month,Mailed check,No,0.8641,1
+2026-09-07 16:07:50,11745,18,27.62,489.2,5,6,Month-to-month,Electronic check,Fiber optic,0.782,1
+2026-09-07 16:07:52,11746,50,26.57,1284.13,2,10,Month-to-month,Credit card,DSL,0.8066,1
+2026-09-07 16:07:54,11747,53,61.33,3271.86,1,6,Month-to-month,Mailed check,DSL,0.7114,1
+2026-09-07 16:07:56,11748,41,37.16,1499.98,2,2,Two year,Electronic check,DSL,0.217,0
+2026-09-07 16:07:59,11749,53,87.22,4664.2,3,4,Month-to-month,Electronic check,Fiber optic,0.8058,1
+2026-09-07 16:08:01,11750,41,111.68,4055.74,4,8,Month-to-month,Bank transfer,No,0.7311,1
+2026-09-07 16:08:03,11751,41,53.4,2252.42,4,3,Month-to-month,Credit card,DSL,0.65,1
+2026-09-07 16:08:05,11752,25,116.78,2674.26,3,1,Month-to-month,Credit card,Fiber optic,0.7327,1
+2026-09-07 16:08:07,11753,34,90.68,2761.32,6,7,Month-to-month,Bank transfer,No,0.839,1
+2026-09-07 16:08:10,11754,21,86.2,1825.5,7,5,Month-to-month,Credit card,DSL,0.7171,1
